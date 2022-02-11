@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kSwU/AMW2QtJEu9OiJ6u8ph10NHjPNkTy5T0E0k9apmCCKgr34HkSuoomUxtSwphAXECZgJxQlmdInwrUge8gw==",
+  "dgSpecHash": "CTyZ/MyMbt16iGyO0NJApPS8kUCTyng8Reh/p1tipWv3hDMhHNJEs/UaHYFCL91nxDbHX7qnob1R5CR+sz+rgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anurag.rastogi\\source\\repos\\Repo\\TestProject\\MyFirstProject.csproj",
+  "projectFilePath": "C:\\Users\\anurag.rastogi\\source\\repos\\hms\\TestProject\\MyFirstProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

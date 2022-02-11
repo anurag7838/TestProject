@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anurag.rastogi\\source\\repos\\Repo\\TestProject\\MyFirstProject.csproj",
+      "projectUniqueName": "C:\\Users\\anurag.rastogi\\source\\repos\\hms\\TestProject\\MyFirstProject.csproj",
       "projectName": "MyFirstProject",
-      "projectPath": "C:\\Users\\anurag.rastogi\\source\\repos\\Repo\\TestProject\\MyFirstProject.csproj",
+      "projectPath": "C:\\Users\\anurag.rastogi\\source\\repos\\hms\\TestProject\\MyFirstProject.csproj",
       "packagesPath": "C:\\Users\\anurag.rastogi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anurag.rastogi\\source\\repos\\Repo\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\anurag.rastogi\\source\\repos\\hms\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
